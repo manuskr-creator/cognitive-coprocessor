@@ -1,2 +1,4 @@
 import streamlit as st
-st.write ("THIS IS TEST")
+import google.generativeai as genai
+
+st.write("Step 1: Imports are working!")
